@@ -1,2 +1,2 @@
 # Python
-This is the repo where all my Python files exists
+This is the repo for all my small non-project Python files
