@@ -1,2 +1,2 @@
 # Python
-This is the repo for all my small non-project Python files
+Repository to store all my genral python files.
